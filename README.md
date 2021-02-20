@@ -1,4 +1,4 @@
-### Hi there, I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey! nice to see you. I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <br>
   <img src="https://komarev.com/ghpvc/?username=SubhamChoudhury" alt="SubhamChoudhury" /> 
 </p>
@@ -61,17 +61,17 @@
 <br />
 
 ---
-[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats) &nbsp;        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
+[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats) &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
 <br><br/>
 
 ---
  <a href="https://github.com/SubhamChoudhury/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamChoudhury" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamChoudhury&theme=radical&count_private=true" />
   </a>
  
  ---
  
-<h2 align="left">Sad Day? Let me get you a smile on your face :wink:</h2>
+<h2 align="left">Sad Day? Let me get a smile on your face :wink:</h2>
 <p align="left">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
