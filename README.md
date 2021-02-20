@@ -1,13 +1,14 @@
-### Hi there, I'm Subham Choudhury 
+### Hi there, I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <br>
   <img src="https://komarev.com/ghpvc/?username=SubhamChoudhury" alt="SubhamChoudhury" /> 
 </p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ## I'm a Student, Undergraduate, Developer, and Learner!
 
 - 🔭 I’m currently working on DSA!
 - 🌱 I’m currently learning WebDev
-- 👯 I’m looking to collaborate with other for hackathons and projects
+- 👯 I’m looking to collaborate for hackathons and projects
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn more!
 - ⚡ Fun fact: I love to watch web-series/movies and listen music.
 
@@ -19,6 +20,7 @@
 [<img align="left" alt="Subham | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="Subham | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Subham | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Subham | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][instagram]
 
 <br/>
 
@@ -30,9 +32,6 @@
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
@@ -42,14 +41,14 @@
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
 [<code>
+<img alt="C" width="26px" src="https://img.icons8.com/ios-filled/240/000000/copyright.png"/>
+</code>]
+[<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
@@ -62,11 +61,17 @@
 <br />
 
 ---
-
-[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats)
+[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats) &nbsp;        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
 <br><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
+
 ---
+ <a href="https://github.com/SubhamChoudhury/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamChoudhury" />
+  </a>
+ 
+ ---
+ 
+<h2 align="left">Sad Day? Let me get you a smile on your face :wink:</h2>
 <p align="left">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
