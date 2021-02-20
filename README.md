@@ -1,4 +1,7 @@
 ### Hi there, I'm Subham Choudhury 
+ <br>
+  <img src="https://komarev.com/ghpvc/?username=SubhamChoudhury" alt="SubhamChoudhury" /> 
+</p>
 
 ## I'm a Student, Undergraduate, Developer, and Learner!
 
@@ -10,12 +13,12 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
-[<img align="left" alt="Sabesan | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Subham | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Subham | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
+[<img align="left" alt="Subham | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Subham | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="Subham | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Subham | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br />
 
@@ -63,19 +66,9 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.SubhamChoudhury.vercel.app/api?username=SubhamChoudhury&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="Subham's Github Stats" src="https://github-readme-stats.SubhamChoudhury.vercel.app/api?username=SubhamChoudhury&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.SubhamChoudhury.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.SubhamChoudhury.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical" />
-</a>
-
+[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats)
 ---
 
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=SubhamChoudhury.SubhamChoudhury" alt="Visitors">                     
-</p>
-
----
 
 [linkedin]: https://www.linkedin.com/in/subham-choudhury
 [medium]: https://medium.com/@subhamchoudhury2408
