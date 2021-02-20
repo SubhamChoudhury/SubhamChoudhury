@@ -20,7 +20,7 @@
 [<img align="left" alt="Subham | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Subham | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
-<br />
+<br/>
 
 ---
 
@@ -63,12 +63,13 @@
 
 ---
 
-
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
-
 [![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats)
+<br><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
 ---
-
+<p align="left">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+</p>
 
 [linkedin]: https://www.linkedin.com/in/subham-choudhury
 [medium]: https://medium.com/@subhamchoudhury2408
