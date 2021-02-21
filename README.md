@@ -20,7 +20,7 @@
 [<img align="left" alt="Subham | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
 [<img align="left" alt="Subham | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Subham | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Subham | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][instagram]
+[<img align="left" alt="Subham | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
 
 <br/>
 
