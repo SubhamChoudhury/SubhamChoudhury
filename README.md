@@ -1,5 +1,11 @@
 ### Hey! nice to see you. I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <br>
+ <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+<br/> 
   <img src="https://komarev.com/ghpvc/?username=SubhamChoudhury" alt="SubhamChoudhury" /> 
 </p>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
