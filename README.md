@@ -78,8 +78,8 @@
  ---
  
 <h2 align="left">Sad Day? Let me get a smile on your face :wink:</h2>
-<p align="left">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 </p>
 
 [linkedin]: https://www.linkedin.com/in/subham-choudhury
