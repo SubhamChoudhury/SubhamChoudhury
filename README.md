@@ -66,6 +66,7 @@
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 <br />
 
+ [![Subham's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubhamChoudhury&theme=xcode)](https://git.io/SubhamChoudhury)
 ---
 [![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats) &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
 <br><br/>
