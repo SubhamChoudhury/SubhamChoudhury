@@ -41,14 +41,14 @@
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="26px"/>
+</code>](https://www.cprogramming.com/)
+[<code>
 <img alt="C++" width="26px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"/>
 </code>](https://isocpp.org/)
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
-[<code>
-<img alt="C" width="26px" src="https://img.icons8.com/ios-filled/240/000000/copyright.png"/>
-</code>]
 [<code>
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
