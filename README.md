@@ -14,9 +14,12 @@
 
 - 🔭 I’m currently working on DSA!
 - 🌱 I’m currently learning WebDev
-- 👯 I’m looking to collaborate for hackathons and projects
+- 📖 Founder and Technical lead @Devs'Street : A community with 500+ active members!
+- 👯 I’m looking to collaborate for hackathons and projects.
+- 🎤 Looking for opportunities to manage and host events as well!
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn more!
 - ⚡ Fun fact: I love to watch web-series/movies and listen music.
+
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
