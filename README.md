@@ -23,13 +23,14 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Subham | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Subham | Medium" height="22px" src="./SocialLogo/Medium.png" />][medium]
-[<img align="left" alt="Subham | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Subham | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Subham | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Subham | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
-[<img align="left" alt="Subham | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
+[<img align="left" alt="Subham | LinkedIn" height="40px" src="./SocialLogo/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Subham | Twitter" height="40px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Subham | GitHub" height="40px" src="./SocialLogo/GitHub.png" />][github]
+[<img align="left" alt="Subham | Medium" height="40px" src="./SocialLogo/Medium.png" />][medium]
+[<img align="left" alt="Subham | Whatsapp" height="40px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Subham | Telegram" height="40px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="Subham | Instagram" height="40px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Subham | Gmail" height="40px" src="./SocialLogo/Gmail.png" />][gmail]
 
 <br/>
 
@@ -93,3 +94,4 @@
 [telegram]: https://telegram.me/Subham_24
 [twitter]: https://twitter.com/SubhamC_14
 [instagram]: https://www.instagram.com/the_skywalker_14
+[github]: https://github.com/SubhamChoudhury
