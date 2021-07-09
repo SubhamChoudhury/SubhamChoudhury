@@ -1,7 +1,7 @@
 ### Hey! nice to see you. I'm Subham Choudhury <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  <br>
  <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" />
 </div>  
   
 
@@ -72,13 +72,10 @@
 
  [![Subham's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=SubhamChoudhury&theme=xcode)](https://git.io/SubhamChoudhury)
 ---
-[![Subham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&count_private=true&layout=compact&hide=html&theme=radical&show_icons=true)](https://github.com/SubhamChoudhury/github-readme-stats) &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamChoudhury&layout=compact&theme=radical)](https://github.com/SubhamChoudhury/github-readme-stats)
-<br><br/>
-
----
- <a href="https://github.com/SubhamChoudhury/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamChoudhury&theme=radical&count_private=true" />
-  </a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SubhamChoudhury&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamChoudhury&theme=radical" />
+</p>
  
  ---
  
